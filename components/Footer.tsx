@@ -37,7 +37,7 @@ const Footer: React.FC = () => {
                 <h4 className="font-bold text-lg mb-4">Talk with us</h4>
                 <ul className="space-y-2">
                      <li>
-                        <a href="mailto:contact@umbrashare.com" className="text-gray-400 hover:text-white transition-colors text-sm">contact@umbrashare.com</a>
+                        <a href="mailto:contact@umbrashare.com" className="text-gray-400 hover:text-white transition-colors text-sm">itstamim.ban@gmail.com</a>
                     </li>
                 </ul>
             </div>
